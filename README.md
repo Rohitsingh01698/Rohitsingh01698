@@ -1,4 +1,4 @@
-# Lead_scoring_case_study
+# Lead_scoring_case_study 
 Lead scoring case study for Education X  
 This repository is a case study to create an ML model (Logistic Regression) for X Education company to address the following problem statement.
 
